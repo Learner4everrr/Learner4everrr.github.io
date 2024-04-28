@@ -47,6 +47,12 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        <!-- Include Tic Tac Toe game if on the specific page -->
+        {% if page.title == "Tic Tac Toe" %}
+          <link rel="stylesheet" href="{{ '/assets/css/tic-tac-toe.css' | relative_url }}">
+          <script src="{{ '/assets/js/tic-tac-toe.js' | relative_url }}"></script>
+        {% endif %}
+
         {% if page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}

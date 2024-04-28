@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "Zaifu Zhan"
+  linkedin         : "zaifu-zhan-b83917271"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -209,6 +209,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  tic-tac-toe:
     output: true
     permalink: /:collection/:path/
 

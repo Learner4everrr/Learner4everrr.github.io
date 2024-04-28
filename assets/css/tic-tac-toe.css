@@ -1,0 +1,33 @@
+#game {
+    width: 310px; /* Adjust the width as needed */
+    display: grid;
+    grid-template-columns: repeat(3, 90px);
+    gap: 10px;
+    margin: 20px;
+    background-color: #3498db;
+    padding: 10px;
+}
+
+.cell:empty:hover {
+    background-color: #eee;
+}
+
+
+.cell {
+    width: 90px; /* Adjust the width as needed */
+    height: 90px; /* Adjust the height as needed */
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.cell.x::before {
+    content: "X";
+}
+
+.cell.circle::before {
+    content: "O";
+}
