@@ -1,4 +1,11 @@
 {% if site.footer_fixed %}
+  <!-- Busuanzi Statistics -->
+  <div class="container mt-0">
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_page_pv">
+    This site has been visited: <span id="busuanzi_value_page_pv"></span> times.
+  </span>
+  </div>
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       &copy; Copyright {{ site.time | date: '%Y' }}
@@ -11,6 +18,9 @@
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
+
+      
+
     </div>
   </footer>
 {% else %}
