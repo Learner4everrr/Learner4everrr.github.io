@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf002/7951915?utm_source=advanceaccess&utm_campaign=jamia&utm_medium=email#500084341">"RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements"</a> was published in JAMIA.
+<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf002/7951915">"RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements"</a> was published in JAMIA.
 
 
