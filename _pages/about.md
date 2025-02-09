@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 I am currently pursuing a Ph.D. in Electrical and Computer Engineering at the University of Minnesota, Twin Cities, with an anticipated completion in 2026. Prior to this, I earned a Master of Engineering in Electrical Engineering from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> in 2021 and a Bachelor of Science in Electrical Engineering from <a href='http://en.njtu.edu.cn/'>Beijing Jiaotong University</a> in 2018.
 I am currently co-advised by <a href='https://med.umn.edu/bio/rui-zhang'>Prof.Zhang</a> at the <a href='https://ruizhang.umn.edu/'>Zhang Research Group</a> and by <a href='https://cse.umn.edu/ece/nicola-elia'>Prof. Elia</a>.
 
-<strong>Research Interests</strong>: I am passionate about biomedical natural language processing, machine learning, data science. I enjoy appling artificial intelligence to to tackle real-world biomedical challenges. Through my work, I aim to develop innovative tools and solutions that empower industries and advance scientific knowledge.
+<strong>Research Interests</strong>: I am passionate about machine learning, natural language processing and computer vision. I enjoy appling state-of-the-art techniques to tackle real-world problems. Through my work, I aim to develop innovative tools and solutions that empower industries and advance scientific knowledge.
 Let’s connect and explore how we can collaborate! 😊 
 
 <strong>Skills</strong>:<br> 
