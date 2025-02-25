@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper <a href="https://spj.science.org/doi/10.34133/hds.0250">Benchmarking of Large Language Models for the Dental Admission Test</a> was published in a science partner journal - Health Data Science.
+I collaborated on the paper <a href="https://spj.science.org/doi/10.34133/hds.0250">Benchmarking of Large Language Models for the Dental Admission Test</a> which was published in the Science Partner Journal Health Data Science.
