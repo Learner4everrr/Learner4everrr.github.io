@@ -40,3 +40,6 @@ Frameworks: <em>PyTorch, TensorFlow, Scikit-learn, Hugging Face </em> <br>
 Math: <em>Linear Algebra, Probability & Statistics, Convex and integer optimization, Common ML Algorithms, DL basics </em> <br> 
 Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib, Seaborn) </em> <br> 
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
+
+<strong>Service</strong>:<br> 
+Reviewer: <em>ACL-SRW 2025 </em> <br> 
