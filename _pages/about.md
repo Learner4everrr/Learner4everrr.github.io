@@ -42,4 +42,4 @@ Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotli
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
 
 <strong>Service</strong>:<br> 
-Reviewer: <em>ACL-SRW 2025 </em> <br> 
+Reviewer: <em>International Journal of Computers and Applications, ACL-SRW 2025, ICNLSP’25 </em> <br> 
