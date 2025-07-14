@@ -36,7 +36,7 @@ Let’s connect and explore how we can collaborate! 😊
 
 <strong>Skills</strong>:<br> 
 Programming: <em>Python(Proficient), MATLAB(Proficient), SQL, R, C/C++, Java </em> <br> 
-Frameworks: <em>PyTorch, TensorFlow, Scikit-learn, Hugging Face </em> <br> 
+Frameworks: <em>PyTorch, TensorFlow, Scikit-learn, Hugging Face, vLLM </em> <br> 
 Math: <em>Linear Algebra, Probability & Statistics, Convex and integer optimization, Common ML Algorithms, DL basics </em> <br> 
 Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib, Seaborn) </em> <br> 
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
