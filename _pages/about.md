@@ -42,4 +42,4 @@ Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotli
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
 
 <strong>Service</strong>:<br> 
-Reviewer: <em>International Journal of Computers and Applications, Applied Artificial Intelligence, ACL-SRW'25, ICNLSP'25 </em> <br> 
+Reviewer: <em>JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, ACL-SRW'25, ICNLSP'25 </em> <br> 
