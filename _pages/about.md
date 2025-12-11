@@ -41,5 +41,6 @@ Math: <em>Linear Algebra, Probability & Statistics, Convex and integer optimizat
 Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib, Seaborn) </em> <br> 
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
 
-<strong>Service</strong>:<br> 
-Reviewer: <em>JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, ACL-SRW'25, ICNLSP'25 </em> <br> 
+<strong>Reviewer Service</strong>:<br> 
+Journal: <em>JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence </em>
+Conference: <em>ACL-SRW'25, ICNLSP'25, Amplify Informatics Conference'26 </em> <br> 
