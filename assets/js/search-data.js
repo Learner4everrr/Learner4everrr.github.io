@@ -524,14 +524,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=FCTDJ84AAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/your-linkedin-username", "_blank");
+          window.open("https://www.linkedin.com/in/zaifu-zhan-b83917271", "_blank");
         },
       },{
         id: 'social-github',
