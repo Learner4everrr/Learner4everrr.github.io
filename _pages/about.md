@@ -42,5 +42,5 @@ Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotli
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
 
 <strong>Reviewer Service</strong>:<br> 
-Journal: <em>JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report </em>
-Conference: <em>ACL-SRW'25, ICNLSP'25, Amplify Informatics Conference'26 </em> <br> 
+Journal: <em>JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report </em> <br> 
+Conference: <em>ACL-SRW'25, ICNLSP'25, Amplify Informatics Conference'26, IEEE ICHI'26 </em> <br> 
