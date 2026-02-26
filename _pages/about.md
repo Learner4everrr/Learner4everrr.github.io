@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Ph.D. student</strong> in <a href='https://cse.umn.edu/ece'>Electrical and Computer Engineering</a> at the <a href='https://twin-cities.umn.edu/'>University of Minnesota, Twin Cities</a> <br> <em>Creative, Curious, Honest, Passionate</em>
+subtitle: <strong>Ph.D. candidate</strong> in <a href='https://cse.umn.edu/ece'>Electrical and Computer Engineering</a> at the <a href='https://twin-cities.umn.edu/'>University of Minnesota, Twin Cities</a> <br> <em>Creative, Curious, Honest, Passionate</em>
 
 profile:
   align: left
@@ -43,4 +43,4 @@ Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </
 
 <strong>Reviewer Service</strong>:<br> 
 Journal: <em>JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report </em> <br> 
-Conference: <em>ACL-SRW'25, ICNLSP'25, Amplify Informatics Conference'26, IEEE ICHI'26 </em> <br> 
+Conference: <em>ACL-SRW'25, ICNLSP'25 (Program Committee), Amplify Informatics Conference'26, IEEE ICHI'26 </em> <br> 
