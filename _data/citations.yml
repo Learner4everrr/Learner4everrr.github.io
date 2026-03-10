@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-09'
 papers:
   FCTDJ84AAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -26,7 +26,7 @@ papers:
     title: 'To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering'
     year: '2026'
   FCTDJ84AAAAJ:9ZlFYXVOiuMC:
-    citations: 104
+    citations: 108
     title: 'Large language models for disease diagnosis: A scoping review'
     year: '2025'
   FCTDJ84AAAAJ:9yKSN-GCB0IC:
@@ -50,7 +50,7 @@ papers:
     title: 'Epee: Towards efficient and effective foundation models in biomedicine'
     year: '2025'
   FCTDJ84AAAAJ:QIV2ME_5wuYC:
-    citations: 35
+    citations: 36
     title: 'CancerLLM: a large language model in cancer domain'
     year: '2026'
   FCTDJ84AAAAJ:Tyk-4Ss8FVUC:
@@ -90,7 +90,7 @@ papers:
     title: 'Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation'
     year: '2025'
   FCTDJ84AAAAJ:_FxGoFyzp5QC:
-    citations: 13
+    citations: 14
     title: 'MMRAG: multi-mode retrieval-augmented generation with large language models for biomedical in-context learning'
     year: '2025'
   FCTDJ84AAAAJ:aqlVkmm33-oC:
