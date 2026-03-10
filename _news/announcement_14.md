@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A <a href="https://arxiv.org/abs/2409.00097">review paper</a> I co-authored was accepted to npj Artificial Intelligence.
+A <a href="https://www.nature.com/articles/s44387-025-00011-z">review paper</a> I co-authored was accepted to npj Artificial Intelligence.
