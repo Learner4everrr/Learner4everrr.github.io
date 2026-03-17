@@ -43,4 +43,4 @@ Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </
 
 <strong>Reviewer Service</strong>:<br> 
 Journal: <em>npj Digital Medicine, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, JAMIA Open, PeerJ Computer Science </em> <br> 
-Conference: <em>ACL-SRW'25, ICNLSP'25 (Program Committee), Amplify Informatics Conference'26, IEEE ICHI'26 </em> <br> 
+Conference: <em>AMIA Annual Symposium'25, ACL-SRW'25, ICNLSP'25 (Program Committee), Amplify Informatics Conference'26, IEEE ICHI'26, AMIA Annual Symposium'26 </em> <br> 
