@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   FCTDJ84AAAAJ:0EnyYjriUFMC:
-    citations: 8
+    citations: 9
     title: Uncertainty-aware large language models for explainable disease diagnosis
     year: '2025'
   FCTDJ84AAAAJ:2osOgNQ5qMEC:
@@ -10,12 +10,16 @@ papers:
     title: Health monitoring of plate structures based on tomography with combination of guided wave transmission and reflection
     year: '2022'
   FCTDJ84AAAAJ:3fE2CSJIrl8C:
-    citations: 6
+    citations: 7
     title: Automating expert-level medical reasoning evaluation of large language models
     year: '2025'
   FCTDJ84AAAAJ:4DMP91E08xMC:
     citations: 0
     title: 'Improving electronic health record processing of large language models via retrieval-augmented generation: A case study on dietary supplements'
+    year: '2025'
+  FCTDJ84AAAAJ:4JMBOYKVnBMC:
+    citations: 5
+    title: 'Large language models for disease diagnosis: A scoping review. npj Artificial Intelligence 1'
     year: '2025'
   FCTDJ84AAAAJ:4TOpqqG69KYC:
     citations: 0
@@ -30,7 +34,7 @@ papers:
     title: Nonlinear responds of Lamb waves in plate structure with micro-crack using frequency-mixing technique
     year: '2021'
   FCTDJ84AAAAJ:HDshCWvjkbEC:
-    citations: 111
+    citations: 114
     title: 'Large language models for disease diagnosis: A scoping review'
     year: '2025'
   FCTDJ84AAAAJ:IjCSPb-OGe4C:
@@ -50,7 +54,7 @@ papers:
     title: 'Epee: Towards efficient and effective foundation models in biomedicine'
     year: '2025'
   FCTDJ84AAAAJ:Tyk-4Ss8FVUC:
-    citations: 19
+    citations: 20
     title: 'Benchmarking retrieval-augmented large language models in biomedical NLP: Application, robustness, and self-awareness'
     year: '2025'
   FCTDJ84AAAAJ:ULOm3_A8WrAC:
@@ -82,13 +86,17 @@ papers:
     title: 'Towards better multi-task learning: a framework for optimizing dataset combinations in large language models'
     year: '2025'
   FCTDJ84AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: 'Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation'
     year: '2025'
   FCTDJ84AAAAJ:_FxGoFyzp5QC:
-    citations: 15
+    citations: 14
     title: 'MMRAG: multi-mode retrieval-augmented generation with large language models for biomedical in-context learning'
     year: '2025'
+  FCTDJ84AAAAJ:_Qo2XoVZTnwC:
+    citations: 0
+    title: 'HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology'
+    year: Unknown Year
   FCTDJ84AAAAJ:aqlVkmm33-oC:
     citations: 0
     title: "Letter to the Editor in response to \u201COptimizing example-selection in retrieval-augmented biomedical in-context learning: reflections on the MMRAG study\u201D"
@@ -108,7 +116,7 @@ papers:
   FCTDJ84AAAAJ:hqOjcs7Dif8C:
     citations: 7
     title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
-    year: '2025'
+    year: '2026'
   FCTDJ84AAAAJ:kNdYIx-mwKoC:
     citations: 2
     title: 'Data-efficient biomedical in-context learning: A diversity-enhanced submodular perspective'
@@ -118,7 +126,7 @@ papers:
     title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
     year: '2022'
   FCTDJ84AAAAJ:roLk4NBRz8UC:
-    citations: 15
+    citations: 16
     title: An evaluation of deepseek models in biomedical natural language processing
     year: '2025'
   FCTDJ84AAAAJ:u-x6o8ySG0sC:
