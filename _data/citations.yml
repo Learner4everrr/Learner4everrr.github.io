@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-03'
 papers:
   FCTDJ84AAAAJ:0EnyYjriUFMC:
-    citations: 9
+    citations: 12
     title: Uncertainty-aware large language models for explainable disease diagnosis
     year: '2025'
   FCTDJ84AAAAJ:2osOgNQ5qMEC:
@@ -34,7 +34,7 @@ papers:
     title: Nonlinear responds of Lamb waves in plate structure with micro-crack using frequency-mixing technique
     year: '2021'
   FCTDJ84AAAAJ:HDshCWvjkbEC:
-    citations: 116
+    citations: 117
     title: 'Large language models for disease diagnosis: A scoping review'
     year: '2025'
   FCTDJ84AAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: Benchmarking GPT-5 for biomedical natural language processing
     year: '2025'
   FCTDJ84AAAAJ:L8Ckcad2t8MC:
-    citations: 0
+    citations: 1
     title: AI enabled decision support systems in epilepsy surgery a scoping review
     year: '2026'
   FCTDJ84AAAAJ:LkGwnXOMwfcC:
@@ -78,7 +78,7 @@ papers:
     title: 'Paperhelper: Knowledge-based llm qa paper reading assistant'
     year: '2025'
   FCTDJ84AAAAJ:YOwf2qJgpHMC:
-    citations: 9
+    citations: 10
     title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
     year: '2025'
   FCTDJ84AAAAJ:YsMSGLbcyi4C:
@@ -90,7 +90,7 @@ papers:
     title: 'Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation'
     year: '2025'
   FCTDJ84AAAAJ:_FxGoFyzp5QC:
-    citations: 14
+    citations: 15
     title: 'MMRAG: multi-mode retrieval-augmented generation with large language models for biomedical in-context learning'
     year: '2025'
   FCTDJ84AAAAJ:_Qo2XoVZTnwC:
@@ -119,7 +119,7 @@ papers:
     year: '2026'
   FCTDJ84AAAAJ:j3f4tGmQtD8C:
     citations: 0
-    title: "MedCL-Bench: Benchmarking stability\u2013efficiency trade-offs and scaling in biomedical continual learning"
+    title: 'MedCL-Bench: Benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning'
     year: '2026'
   FCTDJ84AAAAJ:kNdYIx-mwKoC:
     citations: 2
@@ -129,6 +129,10 @@ papers:
     citations: 11
     title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
     year: '2022'
+  FCTDJ84AAAAJ:r0BpntZqJG4C:
+    citations: 0
+    title: 'EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models'
+    year: '2026'
   FCTDJ84AAAAJ:roLk4NBRz8UC:
     citations: 16
     title: An evaluation of deepseek models in biomedical natural language processing
