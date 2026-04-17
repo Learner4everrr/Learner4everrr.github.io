@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-17'
 papers:
   FCTDJ84AAAAJ:2P1L_qKh6hAC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: A cancer-type-aware framework for robust multimodal survival prediction under missing modalities
     year: '2026'
   FCTDJ84AAAAJ:70eg2SAEIzsC:
-    citations: 12
+    citations: 11
     title: Uncertainty-aware large language models for explainable disease diagnosis
     year: '2025'
   FCTDJ84AAAAJ:BqipwSGYUEgC:
@@ -50,11 +50,11 @@ papers:
     title: Ultrasonic Nonlinear Responses of a Closed Crack in Plate-like Structure
     year: '2021'
   FCTDJ84AAAAJ:NMxIlDl6LWMC:
-    citations: 23
+    citations: 22
     title: 'Benchmarking retrieval-augmented large language models in biomedical NLP: Application, robustness, and self-awareness'
     year: '2025'
   FCTDJ84AAAAJ:NaGl4SEjCO4C:
-    citations: 17
+    citations: 16
     title: An evaluation of deepseek models in biomedical natural language processing
     year: '2025'
   FCTDJ84AAAAJ:O3NaXMp0MMsC:
@@ -82,13 +82,13 @@ papers:
     title: 'Paperhelper: Knowledge-based llm qa paper reading assistant'
     year: '2025'
   FCTDJ84AAAAJ:ZHo1McVdvXMC:
-    citations: 1
+    citations: 0
     title: 'Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation'
     year: '2025'
   FCTDJ84AAAAJ:bEWYMUwI8FkC:
     citations: 8
     title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
-    year: '2026'
+    year: '2025'
   FCTDJ84AAAAJ:blknAaTinKkC:
     citations: 10
     title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
@@ -122,7 +122,7 @@ papers:
     title: 'To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering'
     year: '2026'
   FCTDJ84AAAAJ:ldfaerwXgEUC:
-    citations: 125
+    citations: 126
     title: 'Large language models for disease diagnosis: A scoping review'
     year: '2025'
   FCTDJ84AAAAJ:maZDTaKrznsC:
@@ -138,7 +138,7 @@ papers:
     title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
     year: '2022'
   FCTDJ84AAAAJ:rO6llkc54NcC:
-    citations: 9
+    citations: 11
     title: Automating expert-level medical reasoning evaluation of large language models
     year: '2025'
   FCTDJ84AAAAJ:u_35RYKgDlwC:
