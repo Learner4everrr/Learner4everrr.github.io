@@ -42,5 +42,5 @@ Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotli
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em>
 
 <strong>Reviewer Service</strong>:<br> 
-<strong>Journal</strong>: <em>npj Digital Medicine, npj Precision Oncology, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, JAMIA Open, PeerJ Computer Science, Digital Health, BMC Medical Informatics, Journal of King Saud University Computer and Information Sciences,  </em> <br> 
+<strong>Journal</strong>: <em>npj Digital Medicine, npj Precision Oncology, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, JAMIA Open, PeerJ Computer Science, Digital Health, BMC Medical Informatics, Journal of King Saud University Computer and Information Sciences, BMC Medical Informatics and Decision Making </em> <br> 
 <strong>Conference</strong>: <em>AMIA Annual Symposium'25, ACL-SRW'25, ICNLSP'25 (Program Committee), Amplify Informatics Conference'26, IEEE ICHI'26, AMIA Annual Symposium'26 </em> <br> 
