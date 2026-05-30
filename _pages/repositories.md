@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Github
 description: I am always a learner, <a href='https://github.com/Learner4everrr'>https://github.com/Learner4everrr</a> 
 #Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
+nav: false
 nav_order: 4
 ---
 
