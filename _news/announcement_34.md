@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One long paper, one short paper and one workshop paper were accepted by <a href="">ICHI 2026</a>.
+One long paper, one short paper and one workshop paper were accepted by <a href="https://zhang-informatics.github.io/ICHI2026/">ICHI 2026</a>.
 
 1. Distilling GPT-4o to Enhance Medical Reasoning in Small Language Models (Oral)
 
