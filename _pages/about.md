@@ -35,12 +35,12 @@ I am currently co-advised by <a href='https://med.umn.edu/bio/rui-zhang'>Prof.Zh
 Let’s connect and explore how we can collaborate! 😊 
 
 <strong>Skills</strong>:<br> 
-<del>Programming: <em>Python(Proficient), MATLAB(Proficient), SQL, R, C/C++, Java </em></del> <br> 
-<del>Frameworks: <em>PyTorch, TensorFlow, Scikit-learn, Hugging Face, vLLM </em></del> <br> 
-<del>Math: <em>Linear Algebra, Probability & Statistics, Convex and integer optimization, Common ML Algorithms, DL basics </em></del> <br> 
-<del>Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib, Seaborn) </em></del> <br> 
-<del>Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em></del> <br>
-<em>Claude Code and Codex</em>
+Programming: <del><em>Python(Proficient), MATLAB(Proficient), SQL, R, C/C++, Java </em></del> <em>Claude Code and Codex</em> <br> 
+Frameworks: <del><em>PyTorch, TensorFlow, Scikit-learn, Hugging Face, vLLM </em></del> <em>Claude Code and Codex</em> <br> 
+Math: <em>Linear Algebra, Probability & Statistics, Convex and integer optimization, Common ML Algorithms, DL basics </em> <br> 
+Data Processing: <del><em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib, Seaborn) </em></del> <em>Claude Code and Codex</em> <br> 
+Others: <del><em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em></del><em>Claude Code and Codex</em> <br>
+
 
 <strong>Reviewer Service</strong>:<br> 
 <strong>Journal</strong>: <em>npj Digital Medicine, npj Precision Oncology, IEEE Journal of Biomedical and Health Informatics, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, JAMIA Open, PeerJ Computer Science, Digital Health, BMC Medical Informatics, Journal of King Saud University Computer and Information Sciences, BMC Medical Informatics and Decision Making, Communications Medicine, Information Processing and Management, Expert Systems With Applications  </em> <br> 
