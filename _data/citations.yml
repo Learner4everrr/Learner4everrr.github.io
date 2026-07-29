@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-29'
 papers:
   FCTDJ84AAAAJ:2P1L_qKh6hAC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: A cancer-type-aware framework for robust multimodal survival prediction under missing modalities
     year: '2026'
   FCTDJ84AAAAJ:70eg2SAEIzsC:
-    citations: 22
+    citations: 23
     title: Uncertainty-aware large language models for explainable disease diagnosis
     year: '2025'
   FCTDJ84AAAAJ:738O_yMBCRsC:
@@ -35,7 +35,7 @@ papers:
     year: '2026'
   FCTDJ84AAAAJ:GnPB-g6toBAC:
     citations: 0
-    title: 'Auditing frontier general-purpose large language models in biomedical tasks: reasoning gains, extraction limits, and benchmark reliability'
+    title: 'Auditing frontier general-purpose large language models in biomedical tasks: reasoning gains, extraction limits, and benchmark reliability.'
     year: '2026'
   FCTDJ84AAAAJ:HoB7MX3m0LUC:
     citations: 0
@@ -51,14 +51,14 @@ papers:
     year: '2025'
   FCTDJ84AAAAJ:KxtntwgDAa4C:
     citations: 0
-    title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review'
+    title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review.'
     year: '2026'
   FCTDJ84AAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: Ultrasonic Nonlinear Responses of a Closed Crack in Plate-like Structure
     year: '2021'
   FCTDJ84AAAAJ:NMxIlDl6LWMC:
-    citations: 35
+    citations: 36
     title: 'Benchmarking retrieval-augmented large language models in biomedical NLP: Application, robustness, and self-awareness'
     year: '2025'
   FCTDJ84AAAAJ:NaGl4SEjCO4C:
@@ -74,12 +74,12 @@ papers:
     title: Nonlinear responds of Lamb waves in plate structure with micro-crack using frequency-mixing technique
     year: '2021'
   FCTDJ84AAAAJ:SP6oXDckpogC:
-    citations: 44
+    citations: 45
     title: 'CancerLLM: a large language model in cancer domain'
     year: '2026'
   FCTDJ84AAAAJ:SeFeTyx0c_EC:
-    citations: 1
-    title: 'MedCL-Bench: Benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning'
+    citations: 2
+    title: 'MedCL-bench: benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning'
     year: '2026'
   FCTDJ84AAAAJ:TFP_iSt0sucC:
     citations: 8
@@ -106,7 +106,7 @@ papers:
     title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
     year: '2026'
   FCTDJ84AAAAJ:blknAaTinKkC:
-    citations: 19
+    citations: 20
     title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
     year: '2025'
   FCTDJ84AAAAJ:dfsIfKJdRG4C:
@@ -130,7 +130,7 @@ papers:
     title: 'Epee: Towards efficient and effective foundation models in biomedicine'
     year: '2026'
   FCTDJ84AAAAJ:iH-uZ7U-co4C:
-    citations: 9
+    citations: 8
     title: 'Large language models for disease diagnosis: A scoping review. npj Artificial Intelligence 1'
     year: '2025'
   FCTDJ84AAAAJ:isC4tDSrTZIC:
@@ -146,7 +146,7 @@ papers:
     title: 'To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering'
     year: '2026'
   FCTDJ84AAAAJ:ldfaerwXgEUC:
-    citations: 169
+    citations: 166
     title: 'Large language models for disease diagnosis: A scoping review'
     year: '2025'
   FCTDJ84AAAAJ:maZDTaKrznsC:
@@ -154,7 +154,7 @@ papers:
     title: 'EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models'
     year: '2026'
   FCTDJ84AAAAJ:ns9cj8rnVeAC:
-    citations: 17
+    citations: 18
     title: Benchmarking of large language models for the dental admission test
     year: '2025'
   FCTDJ84AAAAJ:p2g8aNsByqUC:
@@ -179,7 +179,7 @@ papers:
     year: '2026'
   FCTDJ84AAAAJ:vV6vV6tmYwMC:
     citations: 1
-    title: AI enabled decision support systems in epilepsy surgery a scoping review
+    title: AI enabled decision support systems in epilepsy surgery a scoping review.
     year: '2026'
   FCTDJ84AAAAJ:zA6iFVUQeVQC:
     citations: 4
