@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
+  FCTDJ84AAAAJ:08ZZubdj9fEC:
+    citations: 38
+    title: 'Benchmarking retrieval-augmented large language models in biomedical nlp: Application, robustness, and self-awareness'
+    year: '2025'
   FCTDJ84AAAAJ:2P1L_qKh6hAC:
     citations: 2
     title: 'PEER: Towards reliable and efficient inference via Patience-Based Early Exiting with Rejection'
@@ -14,17 +18,21 @@ papers:
     title: A new omni-directional emat using contra-flexure coils for plate inspection
     year: '2021'
   FCTDJ84AAAAJ:4OULZ7Gr8RgC:
-    citations: 0
+    citations: 1
     title: A cancer-type-aware framework for robust multimodal survival prediction under missing modalities
     year: '2026'
-  FCTDJ84AAAAJ:70eg2SAEIzsC:
-    citations: 23
+  FCTDJ84AAAAJ:5Ul4iDaHHb8C:
+    citations: 24
     title: Uncertainty-aware large language models for explainable disease diagnosis
     year: '2025'
   FCTDJ84AAAAJ:738O_yMBCRsC:
     citations: 0
     title: 'Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment'
     year: '2026'
+  FCTDJ84AAAAJ:8AbLer7MMksC:
+    citations: 33
+    title: 'Large language models for disease diagnosis: a scoping review. npj Artif'
+    year: '2025'
   FCTDJ84AAAAJ:BqipwSGYUEgC:
     citations: 3
     title: 'Data-efficient biomedical in-context learning: a diversity-enhanced submodular perspective'
@@ -35,32 +43,32 @@ papers:
     year: '2026'
   FCTDJ84AAAAJ:GnPB-g6toBAC:
     citations: 0
-    title: 'Auditing frontier general-purpose large language models in biomedical tasks: reasoning gains, extraction limits, and benchmark reliability.'
+    title: 'Auditing frontier general-purpose large language models in biomedical tasks: reasoning gains, extraction limits, and benchmark reliability'
     year: '2026'
   FCTDJ84AAAAJ:HoB7MX3m0LUC:
     citations: 0
     title: "Letter to the Editor in response to \u201COptimizing example-selection in retrieval-augmented biomedical in-context learning: reflections on the MMRAG study\u201D"
     year: '2026'
   FCTDJ84AAAAJ:JV2RwH3_ST0C:
-    citations: 22
+    citations: 23
     title: 'MMRAG: multi-mode retrieval-augmented generation with large language models for biomedical in-context learning'
     year: '2025'
   FCTDJ84AAAAJ:J_g5lzvAfSwC:
-    citations: 5
+    citations: 6
     title: 'Mitigating ethical issues for large language models in oncology: a systematic review'
     year: '2025'
   FCTDJ84AAAAJ:KxtntwgDAa4C:
     citations: 0
-    title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review.'
+    title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review'
     year: '2026'
+  FCTDJ84AAAAJ:LPZeul_q3PIC:
+    citations: 31
+    title: Automating expert-level medical reasoning evaluation of large language models
+    year: '2025'
   FCTDJ84AAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: Ultrasonic Nonlinear Responses of a Closed Crack in Plate-like Structure
     year: '2021'
-  FCTDJ84AAAAJ:NMxIlDl6LWMC:
-    citations: 36
-    title: 'Benchmarking retrieval-augmented large language models in biomedical NLP: Application, robustness, and self-awareness'
-    year: '2025'
   FCTDJ84AAAAJ:NaGl4SEjCO4C:
     citations: 20
     title: An evaluation of deepseek models in biomedical natural language processing
@@ -73,10 +81,6 @@ papers:
     citations: 4
     title: Nonlinear responds of Lamb waves in plate structure with micro-crack using frequency-mixing technique
     year: '2021'
-  FCTDJ84AAAAJ:SP6oXDckpogC:
-    citations: 45
-    title: 'CancerLLM: a large language model in cancer domain'
-    year: '2026'
   FCTDJ84AAAAJ:SeFeTyx0c_EC:
     citations: 2
     title: 'MedCL-bench: benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning'
@@ -95,7 +99,7 @@ papers:
     year: '2025'
   FCTDJ84AAAAJ:ZHo1McVdvXMC:
     citations: 5
-    title: 'Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation'
+    title: 'Quantized large language models in biomedical natural language processing: Evaluation and recommendation'
     year: '2025'
   FCTDJ84AAAAJ:a0OBvERweLwC:
     citations: 0
@@ -106,7 +110,7 @@ papers:
     title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
     year: '2026'
   FCTDJ84AAAAJ:blknAaTinKkC:
-    citations: 20
+    citations: 19
     title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
     year: '2025'
   FCTDJ84AAAAJ:dfsIfKJdRG4C:
@@ -125,14 +129,14 @@ papers:
     citations: 1
     title: 'HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology'
     year: '2026'
+  FCTDJ84AAAAJ:geHnlv5EZngC:
+    citations: 46
+    title: 'CancerLLM: a large language model in cancer domain'
+    year: '2026'
   FCTDJ84AAAAJ:hMod-77fHWUC:
     citations: 6
     title: 'Epee: Towards efficient and effective foundation models in biomedicine'
     year: '2026'
-  FCTDJ84AAAAJ:iH-uZ7U-co4C:
-    citations: 8
-    title: 'Large language models for disease diagnosis: A scoping review. npj Artificial Intelligence 1'
-    year: '2025'
   FCTDJ84AAAAJ:isC4tDSrTZIC:
     citations: 9
     title: 'Towards better multi-task learning: a framework for optimizing dataset combinations in large language models'
@@ -145,10 +149,6 @@ papers:
     citations: 1
     title: 'To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering'
     year: '2026'
-  FCTDJ84AAAAJ:ldfaerwXgEUC:
-    citations: 166
-    title: 'Large language models for disease diagnosis: A scoping review'
-    year: '2025'
   FCTDJ84AAAAJ:maZDTaKrznsC:
     citations: 0
     title: 'EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models'
@@ -165,9 +165,9 @@ papers:
     citations: 13
     title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
     year: '2022'
-  FCTDJ84AAAAJ:rO6llkc54NcC:
-    citations: 27
-    title: Automating expert-level medical reasoning evaluation of large language models
+  FCTDJ84AAAAJ:sSrBHYA8nusC:
+    citations: 170
+    title: 'Large language models for disease diagnosis: a scoping review'
     year: '2025'
   FCTDJ84AAAAJ:u9iWguZQMMsC:
     citations: 0
@@ -179,7 +179,7 @@ papers:
     year: '2026'
   FCTDJ84AAAAJ:vV6vV6tmYwMC:
     citations: 1
-    title: AI enabled decision support systems in epilepsy surgery a scoping review.
+    title: AI enabled decision support systems in epilepsy surgery a scoping review
     year: '2026'
   FCTDJ84AAAAJ:zA6iFVUQeVQC:
     citations: 4
