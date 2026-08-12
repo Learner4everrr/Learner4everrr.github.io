@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-12'
 papers:
   FCTDJ84AAAAJ:08ZZubdj9fEC:
-    citations: 38
+    citations: 39
     title: 'Benchmarking retrieval-augmented large language models in biomedical nlp: Application, robustness, and self-awareness'
     year: '2025'
   FCTDJ84AAAAJ:2P1L_qKh6hAC:
@@ -18,11 +18,11 @@ papers:
     title: A new omni-directional emat using contra-flexure coils for plate inspection
     year: '2021'
   FCTDJ84AAAAJ:4OULZ7Gr8RgC:
-    citations: 1
+    citations: 2
     title: A cancer-type-aware framework for robust multimodal survival prediction under missing modalities
     year: '2026'
   FCTDJ84AAAAJ:5Ul4iDaHHb8C:
-    citations: 24
+    citations: 26
     title: Uncertainty-aware large language models for explainable disease diagnosis
     year: '2025'
   FCTDJ84AAAAJ:738O_yMBCRsC:
@@ -62,7 +62,7 @@ papers:
     title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review'
     year: '2026'
   FCTDJ84AAAAJ:LPZeul_q3PIC:
-    citations: 31
+    citations: 33
     title: Automating expert-level medical reasoning evaluation of large language models
     year: '2025'
   FCTDJ84AAAAJ:M3NEmzRMIkIC:
@@ -89,6 +89,10 @@ papers:
     citations: 8
     title: Benchmarking GPT-5 for biomedical natural language processing
     year: '2025'
+  FCTDJ84AAAAJ:VOx2b1Wkg3QC:
+    citations: 0
+    title: 'Salient-Q: A Saliency-Guided Vision-Language Framework for Medical Image De-Identification'
+    year: '2026'
   FCTDJ84AAAAJ:XiSMed-E-HIC:
     citations: 0
     title: "Benchmarking information extraction of physical activity from electronic health record with large language models: an natural language processing pipeline and comparative \u2026"
@@ -110,7 +114,7 @@ papers:
     title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
     year: '2026'
   FCTDJ84AAAAJ:blknAaTinKkC:
-    citations: 19
+    citations: 20
     title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
     year: '2025'
   FCTDJ84AAAAJ:dfsIfKJdRG4C:
@@ -125,12 +129,16 @@ papers:
     citations: 1
     title: 'PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities'
     year: '2026'
+  FCTDJ84AAAAJ:fQNAKQ3IYiAC:
+    citations: 0
+    title: Completing Multimodal Biomedical Knowledge Graphs with Schema-Aware Modality Imputation and Alignment
+    year: '2026'
   FCTDJ84AAAAJ:g5m5HwL7SMYC:
     citations: 1
     title: 'HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology'
     year: '2026'
   FCTDJ84AAAAJ:geHnlv5EZngC:
-    citations: 46
+    citations: 47
     title: 'CancerLLM: a large language model in cancer domain'
     year: '2026'
   FCTDJ84AAAAJ:hMod-77fHWUC:
@@ -154,7 +162,7 @@ papers:
     title: 'EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models'
     year: '2026'
   FCTDJ84AAAAJ:ns9cj8rnVeAC:
-    citations: 18
+    citations: 19
     title: Benchmarking of large language models for the dental admission test
     year: '2025'
   FCTDJ84AAAAJ:p2g8aNsByqUC:
@@ -166,7 +174,7 @@ papers:
     title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
     year: '2022'
   FCTDJ84AAAAJ:sSrBHYA8nusC:
-    citations: 170
+    citations: 171
     title: 'Large language models for disease diagnosis: a scoping review'
     year: '2025'
   FCTDJ84AAAAJ:u9iWguZQMMsC:
