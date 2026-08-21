@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper <a href="https://openreview.net/forum?id=G7hDDfASW2">Improving Latent Reasoning in LLMs via Soft Concept Mixing</a> was accepted by <a href="">EMNLP 2026</a>. 
+One paper <a href="https://openreview.net/forum?id=G7hDDfASW2">Improving Latent Reasoning in LLMs via Soft Concept Mixing</a> was accepted by <a href="">EMNLP main 2026</a>. 
