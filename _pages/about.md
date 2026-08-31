@@ -24,12 +24,12 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 <strong>Welcome!</strong>
 I am currently pursuing a Ph.D. in Electrical and Computer Engineering at the University of Minnesota, Twin Cities, with an anticipated completion in 2026. Prior to this, I earned a Master of Engineering in Electrical Engineering from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> in 2021 and a Bachelor of Science in Electrical Engineering from <a href='http://en.njtu.edu.cn/'>Beijing Jiaotong University</a> in 2018.
-I am currently co-advised by <a href='https://med.umn.edu/bio/rui-zhang'>Prof.Zhang</a> at the <a href='https://ruizhang.umn.edu/'>Zhang Research Group</a> and by <a href='https://cse.umn.edu/ece/nicola-elia'>Prof. Elia</a>.
+Currently, I am fortunately advised by <a href='https://med.umn.edu/bio/rui-zhang'>Prof.Zhang</a> at the <a href='https://ruizhang.umn.edu/'>Zhang Research Group</a>.
 
 <strong>Research Interests</strong>: I am passionate about machine learning, natural language processing and computer vision. I enjoy appling state-of-the-art techniques to tackle real-world problems. Through my work, I aim to develop innovative tools and solutions that empower industries and advance scientific knowledge.
 Let’s connect and explore how we can collaborate! 😊 
@@ -44,4 +44,4 @@ Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </
 
 <strong>Reviewer Service</strong>:<br> 
 <strong>Journal</strong>: <em>Nature Communications(if=18.1 2026), npj Digital Medicine(if=18.1 2026), npj Precision Oncology, IEEE Journal of Biomedical and Health Informatics, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, JAMIA Open, PeerJ Computer Science, Digital Health, Journal of King Saud University Computer and Information Sciences, BMC Medical Informatics, BMC Medical Informatics and Decision Making, BMC Medical Education, BMC Medical Research Methodology, Communications Medicine, Information Processing and Management, Expert Systems With Applications, International Journal of Data Science and Analytics, Informatics in Medicine Unlocked, Network Modeling Analysis in Health Informatics and Bioinformatics, European Journal of Cancer, Psychology, Health & Medicine, Discover Artificial Intelligence, Discover Informatics, Cluster Computing, Journal of Experimental & Theoretical Artificial Intelligence, BMC Cardiovascular Disorders, International Journal of Machine Learning and Cybernetics </em> <br> 
-<strong>Conference</strong>: <em>AMIA Annual Symposium'25, ACL-SRW'25, ICNLSP'25 (Program Committee), Amplify Informatics Conference'26, IEEE ICHI'26, AMIA Annual Symposium'26, ICNLSP'26, AAAI'27 </em> <br> 
+<strong>Conference</strong>: <em>AMIA Annual Symposium'25, ACL-SRW'25, ICNLSP'25 (Program Committee), ACL'25, Amplify Informatics Conference'26, IEEE ICHI'26, AMIA Annual Symposium'26, ICNLSP'26, AAAI'27 </em> <br> 
