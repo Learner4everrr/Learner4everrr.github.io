@@ -1,195 +1,211 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-09-07'
 papers:
-  FCTDJ84AAAAJ:08ZZubdj9fEC:
-    citations: 39
-    title: 'Benchmarking retrieval-augmented large language models in biomedical nlp: Application, robustness, and self-awareness'
+  FCTDJ84AAAAJ:0N-VGjzr574C:
+    citations: 19
+    title: Benchmarking of large language models for the dental admission test
     year: '2025'
-  FCTDJ84AAAAJ:2P1L_qKh6hAC:
-    citations: 2
-    title: 'PEER: Towards reliable and efficient inference via Patience-Based Early Exiting with Rejection'
-    year: '2026'
-  FCTDJ84AAAAJ:35N4QoGY0k4C:
+  FCTDJ84AAAAJ:0izLItjtcgwC:
     citations: 7
-    title: Health monitoring of plate structures based on tomography with combination of guided wave transmission and reflection
-    year: '2022'
-  FCTDJ84AAAAJ:3s1wT3WcHBgC:
-    citations: 4
-    title: A new omni-directional emat using contra-flexure coils for plate inspection
-    year: '2021'
-  FCTDJ84AAAAJ:4OULZ7Gr8RgC:
-    citations: 2
-    title: A cancer-type-aware framework for robust multimodal survival prediction under missing modalities
-    year: '2026'
-  FCTDJ84AAAAJ:5Ul4iDaHHb8C:
-    citations: 26
-    title: Uncertainty-aware large language models for explainable disease diagnosis
+    title: 'Quantized large language models in biomedical natural language processing: Evaluation and recommendation'
     year: '2025'
-  FCTDJ84AAAAJ:738O_yMBCRsC:
-    citations: 0
-    title: 'Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment'
-    year: '2026'
-  FCTDJ84AAAAJ:8AbLer7MMksC:
-    citations: 33
-    title: 'Large language models for disease diagnosis: a scoping review. npj Artif'
-    year: '2025'
-  FCTDJ84AAAAJ:BqipwSGYUEgC:
-    citations: 3
-    title: 'Data-efficient biomedical in-context learning: a diversity-enhanced submodular perspective'
-    year: '2026'
-  FCTDJ84AAAAJ:D03iK_w7-QYC:
-    citations: 1
-    title: 'RuPLaR: Efficient Latent Compression of LLM Reasoning Chains with Rule-Based Priors From Multi-Step to One-Step'
-    year: '2026'
-  FCTDJ84AAAAJ:GnPB-g6toBAC:
-    citations: 0
-    title: 'Auditing frontier general-purpose large language models in biomedical tasks: reasoning gains, extraction limits, and benchmark reliability'
-    year: '2026'
-  FCTDJ84AAAAJ:HoB7MX3m0LUC:
-    citations: 0
-    title: "Letter to the Editor in response to \u201COptimizing example-selection in retrieval-augmented biomedical in-context learning: reflections on the MMRAG study\u201D"
-    year: '2026'
-  FCTDJ84AAAAJ:JV2RwH3_ST0C:
-    citations: 23
-    title: 'MMRAG: multi-mode retrieval-augmented generation with large language models for biomedical in-context learning'
-    year: '2025'
-  FCTDJ84AAAAJ:J_g5lzvAfSwC:
-    citations: 6
-    title: 'Mitigating ethical issues for large language models in oncology: a systematic review'
-    year: '2025'
-  FCTDJ84AAAAJ:KxtntwgDAa4C:
-    citations: 0
-    title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review'
-    year: '2026'
-  FCTDJ84AAAAJ:LPZeul_q3PIC:
-    citations: 33
-    title: Automating expert-level medical reasoning evaluation of large language models
-    year: '2025'
-  FCTDJ84AAAAJ:M3NEmzRMIkIC:
-    citations: 0
-    title: Ultrasonic Nonlinear Responses of a Closed Crack in Plate-like Structure
-    year: '2021'
-  FCTDJ84AAAAJ:NaGl4SEjCO4C:
-    citations: 20
-    title: An evaluation of deepseek models in biomedical natural language processing
-    year: '2025'
-  FCTDJ84AAAAJ:O3NaXMp0MMsC:
-    citations: 0
-    title: 'Improving electronic health record processing of large language models via retrieval-augmented generation: A case study on dietary supplements'
-    year: '2026'
-  FCTDJ84AAAAJ:RGFaLdJalmkC:
+  FCTDJ84AAAAJ:2VqYfGB8ITEC:
     citations: 4
     title: Nonlinear responds of Lamb waves in plate structure with micro-crack using frequency-mixing technique
     year: '2021'
-  FCTDJ84AAAAJ:SeFeTyx0c_EC:
+  FCTDJ84AAAAJ:4fGpz3EwCPoC:
     citations: 2
-    title: 'MedCL-bench: benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning'
+    title: 'HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology'
     year: '2026'
-  FCTDJ84AAAAJ:TFP_iSt0sucC:
-    citations: 8
-    title: Benchmarking GPT-5 for biomedical natural language processing
+  FCTDJ84AAAAJ:4hFrxpcac9AC:
+    citations: 0
+    title: Distilling GPT-4o to Enhance Medical Reasoning in Small Language Models
+    year: '2026'
+  FCTDJ84AAAAJ:5qfkUJPXOUwC:
+    citations: 7
+    title: 'Mitigating ethical issues for large language models in oncology: a systematic review'
     year: '2025'
-  FCTDJ84AAAAJ:VOx2b1Wkg3QC:
+  FCTDJ84AAAAJ:6ZxmRoH8BuwC:
+    citations: 1
+    title: 'RuPLaR: Efficient Latent Compression of LLM Reasoning Chains with Rule-Based Priors From Multi-Step to One-Step'
+    year: '2026'
+  FCTDJ84AAAAJ:86PQX7AUzd4C:
+    citations: 1
+    title: 'To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering'
+    year: '2026'
+  FCTDJ84AAAAJ:8d8msizDQcsC:
     citations: 0
     title: 'Salient-Q: A Saliency-Guided Vision-Language Framework for Medical Image De-Identification'
     year: '2026'
-  FCTDJ84AAAAJ:XiSMed-E-HIC:
+  FCTDJ84AAAAJ:9c2xU6iGI7YC:
     citations: 0
-    title: "Benchmarking information extraction of physical activity from electronic health record with large language models: an natural language processing pipeline and comparative \u2026"
+    title: Assessment of Material Dislocation Damage by Nonlinear Ultrasound
+    year: '2020'
+  FCTDJ84AAAAJ:9pM33mqn1YgC:
+    citations: 19
+    title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
     year: '2026'
-  FCTDJ84AAAAJ:YFjsv_pBGBYC:
+  FCTDJ84AAAAJ:ClCfbGk0d_YC:
+    citations: 21
+    title: An evaluation of deepseek models in biomedical natural language processing
+    year: '2025'
+  FCTDJ84AAAAJ:DUooU5lO8OsC:
+    citations: 34
+    title: 'Large language models for disease diagnosis: a scoping review. npj Artif'
+    year: '2025'
+  FCTDJ84AAAAJ:Dip1O2bNi0gC:
+    citations: 9
+    title: 'Towards better multi-task learning: a framework for optimizing dataset combinations in large language models'
+    year: '2025'
+  FCTDJ84AAAAJ:FAceZFleit8C:
+    citations: 48
+    title: 'CancerLLM: a large language model in cancer domain'
+    year: '2026'
+  FCTDJ84AAAAJ:FPJr55Dyh1AC:
+    citations: 0
+    title: 'Deep learning enabled decision support systems in epilepsy surgery: a scoping review'
+    year: '2026'
+  FCTDJ84AAAAJ:GtLg2Ama23sC:
+    citations: 0
+    title: Completing Multimodal Biomedical Knowledge Graphs with Schema-Aware Modality Imputation and Alignment
+    year: '2026'
+  FCTDJ84AAAAJ:HbR8gkJAVGIC:
+    citations: 0
+    title: 'EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models'
+    year: '2026'
+  FCTDJ84AAAAJ:HtEfBTGE9r8C:
+    citations: 0
+    title: 'An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication--A scoping review'
+    year: '2026'
+  FCTDJ84AAAAJ:IRz6iEL74y4C:
+    citations: 13
+    title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
+    year: '2022'
+  FCTDJ84AAAAJ:IUKN3-7HHlwC:
+    citations: 2
+    title: 'Mmrag: Multi-mode retrieval-augmented generation with large language models for biomedical in-context learning, 2025b'
+    year: Unknown Year
+  FCTDJ84AAAAJ:LO7wyVUgiFcC:
+    citations: 0
+    title: "Letter to the Editor in response to \u201COptimizing example-selection in retrieval-augmented biomedical in-context learning: reflections on the MMRAG study\u201D"
+    year: '2026'
+  FCTDJ84AAAAJ:NXb4pA-qfm4C:
+    citations: 3
+    title: 'Let large language models judge each other: multi-agent peer-reviewed reasoning for medical question answering'
+    year: '2026'
+  FCTDJ84AAAAJ:OTTXONDVkokC:
+    citations: 4
+    title: Simulation of three constitutive behaviors based on nonlinear ultrasound
+    year: '2020'
+  FCTDJ84AAAAJ:PVjk1bu6vJQC:
+    citations: 39
+    title: 'RAMIE: retrieval-augmented multi-task information extraction with large language models on dietary supplements'
+    year: '2025'
+  FCTDJ84AAAAJ:PoWvk5oyLR8C:
+    citations: 8
+    title: Benchmarking GPT-5 for biomedical natural language processing
+    year: '2025'
+  FCTDJ84AAAAJ:QYdC8u9Cj1oC:
+    citations: 2
+    title: Uncertainty-aware large language models for explainable disease diagnosis. npj Digital Medicine
+    year: '2025'
+  FCTDJ84AAAAJ:Ri6SYOTghG4C:
+    citations: 28
+    title: Uncertainty-aware large language models for explainable disease diagnosis
+    year: '2025'
+  FCTDJ84AAAAJ:SpbeaW3--B0C:
+    citations: 1
+    title: 'PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities'
+    year: '2026'
+  FCTDJ84AAAAJ:Ug5p-4gJ2f0C:
+    citations: 40
+    title: 'Benchmarking retrieval-augmented large language models in biomedical nlp: Application, robustness, and self-awareness'
+    year: '2025'
+  FCTDJ84AAAAJ:WJVC3Jt7v1AC:
+    citations: 7
+    title: Health monitoring of plate structures based on tomography with combination of guided wave transmission and reflection
+    year: '2022'
+  FCTDJ84AAAAJ:XoXfffV-tXoC:
+    citations: 20
+    title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
+    year: '2025'
+  FCTDJ84AAAAJ:XvxMoLDsR5gC:
+    citations: 0
+    title: 'Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment'
+    year: '2026'
+  FCTDJ84AAAAJ:YohjEiUPhakC:
+    citations: 0
+    title: 'Improving electronic health record processing of large language models via retrieval-augmented generation: A case study on dietary supplements'
+    year: '2026'
+  FCTDJ84AAAAJ:_5tno0g5mFcC:
     citations: 1
     title: 'Paperhelper: Knowledge-based llm qa paper reading assistant'
     year: '2025'
-  FCTDJ84AAAAJ:ZHo1McVdvXMC:
-    citations: 5
-    title: 'Quantized large language models in biomedical natural language processing: Evaluation and recommendation'
-    year: '2025'
+  FCTDJ84AAAAJ:_FM0Bhl9EiAC:
+    citations: 3
+    title: A cancer-type-aware framework for robust multimodal survival prediction under missing modalities
+    year: '2026'
+  FCTDJ84AAAAJ:_axFR9aDTf0C:
+    citations: 1
+    title: AI enabled decision support systems in epilepsy surgery a scoping review
+    year: '2026'
   FCTDJ84AAAAJ:a0OBvERweLwC:
     citations: 0
     title: 'Large Language Models Across the Clinical Trial Lifecycle: A Systematic Review of Applications, Methodologies, and Validation Gaps'
     year: '2026'
-  FCTDJ84AAAAJ:bEWYMUwI8FkC:
-    citations: 16
-    title: Retrieval-augmented in-context learning for multimodal large language models in disease classification
-    year: '2026'
-  FCTDJ84AAAAJ:blknAaTinKkC:
-    citations: 20
-    title: 'The efficiency vs. accuracy trade-off: Optimizing rag-enhanced llm recommender systems using multi-head early exit'
+  FCTDJ84AAAAJ:a9-T7VOCCH8C:
+    citations: 36
+    title: Automating expert-level medical reasoning evaluation of large language models
     year: '2025'
-  FCTDJ84AAAAJ:dfsIfKJdRG4C:
-    citations: 0
-    title: 'An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication--A scoping review'
+  FCTDJ84AAAAJ:anf4URPfarAC:
+    citations: 2
+    title: 'MedCL-bench: benchmarking stability-efficiency trade-offs and scaling in biomedical continual learning'
     year: '2026'
-  FCTDJ84AAAAJ:f2IySw72cVMC:
-    citations: 3
-    title: 'Let large language models judge each other: multi-agent peer-reviewed reasoning for medical question answering'
-    year: '2026'
-  FCTDJ84AAAAJ:fPk4N6BV_jEC:
-    citations: 1
-    title: 'PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities'
-    year: '2026'
-  FCTDJ84AAAAJ:fQNAKQ3IYiAC:
-    citations: 0
-    title: Completing Multimodal Biomedical Knowledge Graphs with Schema-Aware Modality Imputation and Alignment
-    year: '2026'
-  FCTDJ84AAAAJ:g5m5HwL7SMYC:
-    citations: 1
-    title: 'HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology'
-    year: '2026'
-  FCTDJ84AAAAJ:geHnlv5EZngC:
-    citations: 47
-    title: 'CancerLLM: a large language model in cancer domain'
-    year: '2026'
-  FCTDJ84AAAAJ:hMod-77fHWUC:
-    citations: 6
-    title: 'Epee: Towards efficient and effective foundation models in biomedicine'
-    year: '2026'
-  FCTDJ84AAAAJ:isC4tDSrTZIC:
-    citations: 9
-    title: 'Towards better multi-task learning: a framework for optimizing dataset combinations in large language models'
-    year: '2025'
-  FCTDJ84AAAAJ:k_IJM867U9cC:
-    citations: 0
-    title: Enhancement of Omni-Directional EMAT Signal Using a Optimized Magnetic Circuit Design
-    year: '2020'
-  FCTDJ84AAAAJ:lSLTfruPkqcC:
-    citations: 1
-    title: 'To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering'
-    year: '2026'
-  FCTDJ84AAAAJ:maZDTaKrznsC:
-    citations: 0
-    title: 'EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models'
-    year: '2026'
-  FCTDJ84AAAAJ:ns9cj8rnVeAC:
-    citations: 19
-    title: Benchmarking of large language models for the dental admission test
-    year: '2025'
-  FCTDJ84AAAAJ:p2g8aNsByqUC:
-    citations: 35
-    title: 'RAMIE: retrieval-augmented multi-task information extraction with large language models on dietary supplements'
-    year: '2025'
-  FCTDJ84AAAAJ:pqnbT2bcN3wC:
-    citations: 13
-    title: Bayesian compressive sensing for recovering the time-frequency representation of undersampled Lamb wave signals
-    year: '2022'
-  FCTDJ84AAAAJ:sSrBHYA8nusC:
-    citations: 171
+  FCTDJ84AAAAJ:bz8QjSJIRt4C:
+    citations: 181
     title: 'Large language models for disease diagnosis: a scoping review'
     year: '2025'
-  FCTDJ84AAAAJ:u9iWguZQMMsC:
+  FCTDJ84AAAAJ:edDO8Oi4QzsC:
     citations: 0
-    title: Assessment of Material Dislocation Damage by Nonlinear Ultrasound
-    year: '2020'
-  FCTDJ84AAAAJ:u_35RYKgDlwC:
+    title: 'Auditing frontier general-purpose large language models in biomedical tasks: reasoning gains, extraction limits, and benchmark reliability'
+    year: '2026'
+  FCTDJ84AAAAJ:foquWX3nUaYC:
+    citations: 1
+    title: 'Let LLMs Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering'
+    year: '2026'
+  FCTDJ84AAAAJ:hCrLmN-GePgC:
+    citations: 3
+    title: 'Data-efficient biomedical in-context learning: a diversity-enhanced submodular perspective'
+    year: '2026'
+  FCTDJ84AAAAJ:kh2fBNsKQNwC:
+    citations: 3
+    title: 'PEER: Towards reliable and efficient inference via Patience-Based Early Exiting with Rejection'
+    year: '2026'
+  FCTDJ84AAAAJ:mlAyqtXpCwEC:
+    citations: 4
+    title: A new omni-directional emat using contra-flexure coils for plate inspection
+    year: '2021'
+  FCTDJ84AAAAJ:q3CdL3IzO_QC:
+    citations: 0
+    title: "Benchmarking information extraction of physical activity from electronic health record with large language models: an natural language processing pipeline and comparative \u2026"
+    year: '2026'
+  FCTDJ84AAAAJ:rmuvC79q63oC:
     citations: 2
     title: Can large language models self-correct in medical question answering? an exploratory study
     year: '2026'
-  FCTDJ84AAAAJ:vV6vV6tmYwMC:
-    citations: 1
-    title: AI enabled decision support systems in epilepsy surgery a scoping review
-    year: '2026'
-  FCTDJ84AAAAJ:zA6iFVUQeVQC:
-    citations: 4
-    title: Simulation of three constitutive behaviors based on nonlinear ultrasound
+  FCTDJ84AAAAJ:ruyezt5ZtCIC:
+    citations: 26
+    title: 'MMRAG: multi-mode retrieval-augmented generation with large language models for biomedical in-context learning'
+    year: '2025'
+  FCTDJ84AAAAJ:sNmaIFBj_lkC:
+    citations: 0
+    title: Ultrasonic Nonlinear Responses of a Closed Crack in Plate-like Structure
+    year: '2021'
+  FCTDJ84AAAAJ:umqufdRvDiIC:
+    citations: 0
+    title: Enhancement of Omni-Directional EMAT Signal Using a Optimized Magnetic Circuit Design
     year: '2020'
+  FCTDJ84AAAAJ:xtoqd-5pKcoC:
+    citations: 6
+    title: 'Epee: Towards efficient and effective foundation models in biomedicine'
+    year: '2026'
