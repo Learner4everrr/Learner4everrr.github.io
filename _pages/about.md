@@ -50,14 +50,28 @@ Currently, I am fortunately advised by <a href='https://med.umn.edu/bio/rui-zhan
 <strong>Research Interests</strong>: I am passionate about machine learning, natural language processing and computer vision. I enjoy appling state-of-the-art techniques to tackle real-world problems. Through my work, I aim to develop innovative tools and solutions that empower industries and advance scientific knowledge.
 Let’s connect and explore how we can collaborate! 😊 
 
-<strong>Skills</strong>:<br> 
+<details class="profile-details">
+<summary>
+  <span>Skills</span>
+  <svg class="details-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
+</summary>
+<div class="profile-details-content">
 Programming: <em>Python(Proficient), MATLAB(Proficient), SQL, R, C/C++, Java </em><br> 
 Frameworks: <em>PyTorch, TensorFlow, Scikit-learn, Hugging Face, vLLM </em><br> 
 Math: <em>Linear Algebra, Probability & Statistics, Convex and integer optimization, Common ML Algorithms, DL basics </em> <br> 
 Data Processing: <em>Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib, Seaborn) </em><br> 
 Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </em><br>
+</div>
+</details>
 
 
-<strong>Reviewer Service</strong>:<br> 
+<details class="profile-details">
+<summary>
+  <span>Reviewer Service</span>
+  <svg class="details-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
+</summary>
+<div class="profile-details-content">
 <strong>Journal</strong>: <em>Nature Communications(if=18.1 2026), npj Digital Medicine(if=18.1 2026), JAMIA open, npj Precision Oncology, IEEE Journal of Biomedical and Health Informatics, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, PeerJ Computer Science, Digital Health, Journal of King Saud University Computer and Information Sciences, BMC Medical Informatics, BMC Medical Informatics and Decision Making, BMC Medical Education, BMC Medical Research Methodology, BMC Medical Imaging, Communications Medicine, Information Processing and Management, Expert Systems With Applications, International Journal of Data Science and Analytics, Informatics in Medicine Unlocked, Network Modeling Analysis in Health Informatics and Bioinformatics, European Journal of Cancer, Psychology, Health & Medicine, Discover Artificial Intelligence, Discover Informatics, Cluster Computing, Journal of Experimental & Theoretical Artificial Intelligence, BMC Cardiovascular Disorders, International Journal of Machine Learning and Cybernetics, Applied Soft Computing Journal, International Journal of Digital Earth, Journal of Imaging Informatics in Medicine, Knowledge-Based Systems, Intelligence-Based Medicine, Computer Methods and Programs in Biomedicine Update </em> <br> 
 <strong>Conference</strong>: <em>AMIA Annual Symposium'25, ACL-SRW'25, ICNLSP'25 (Program Committee), ACL'25, Amplify Informatics Conference'26, IEEE ICHI'26, AMIA Annual Symposium'26, ICNLSP'26, AAAI'27 </em> <br> 
+</div>
+</details>

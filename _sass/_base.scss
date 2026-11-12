@@ -272,6 +272,49 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.profile-details {
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    font-weight: 600;
+    list-style: none;
+    cursor: pointer;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--global-theme-color);
+      outline-offset: 3px;
+      border-radius: 0.25rem;
+    }
+  }
+
+  .details-chevron {
+    flex-shrink: 0;
+    color: var(--global-theme-color);
+  }
+
+  &[open] .details-chevron {
+    transform: rotate(90deg);
+  }
+
+  .profile-details-content {
+    padding-bottom: 0.75rem;
+  }
+}
+
 .profile.float-right {
   margin-left: 1rem;
 }
