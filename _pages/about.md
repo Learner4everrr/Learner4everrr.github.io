@@ -57,7 +57,6 @@ Let’s connect and explore how we can collaborate! 😊
 <summary>
   <svg class="details-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
   <span>Skills</span>
-  <span class="details-hint" aria-hidden="true"><span class="details-expand">Click to expand</span><span class="details-collapse">Click to collapse</span></span>
 </summary>
 <div class="profile-details-content">
 Programming: <em>Python(Proficient), MATLAB(Proficient), SQL, R, C/C++, Java </em><br> 
@@ -73,7 +72,6 @@ Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </
 <summary>
   <svg class="details-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
   <span>Reviewer Service</span>
-  <span class="details-hint" aria-hidden="true"><span class="details-expand">Click to expand</span><span class="details-collapse">Click to collapse</span></span>
 </summary>
 <div class="profile-details-content">
 <strong>Journal</strong>: <em>Nature Communications(if=18.1 2026), npj Digital Medicine(if=18.1 2026), JAMIA open, npj Precision Oncology, IEEE Journal of Biomedical and Health Informatics, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, PeerJ Computer Science, Digital Health, Journal of King Saud University Computer and Information Sciences, BMC Medical Informatics, BMC Medical Informatics and Decision Making, BMC Medical Education, BMC Medical Research Methodology, BMC Medical Imaging, Communications Medicine, Information Processing and Management, Expert Systems With Applications, International Journal of Data Science and Analytics, Informatics in Medicine Unlocked, Network Modeling Analysis in Health Informatics and Bioinformatics, European Journal of Cancer, Psychology, Health & Medicine, Discover Artificial Intelligence, Discover Informatics, Cluster Computing, Journal of Experimental & Theoretical Artificial Intelligence, BMC Cardiovascular Disorders, International Journal of Machine Learning and Cybernetics, Applied Soft Computing Journal, International Journal of Digital Earth, Journal of Imaging Informatics in Medicine, Knowledge-Based Systems, Intelligence-Based Medicine, Computer Methods and Programs in Biomedicine Update </em> <br> 

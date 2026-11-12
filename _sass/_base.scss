@@ -327,21 +327,6 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-theme-color);
   }
 
-  .details-hint {
-    margin-left: auto;
-    flex-shrink: 0;
-    font-size: 0.75rem;
-    font-weight: 400;
-
-    span {
-      color: var(--global-theme-color);
-    }
-  }
-
-  .details-collapse {
-    display: none;
-  }
-
   &[open] {
     summary {
       border-radius: 0.6rem 0.6rem 0 0;
@@ -352,13 +337,6 @@ ul.task-list input[type="checkbox"] {
       transform: rotate(90deg);
     }
 
-    .details-expand {
-      display: none;
-    }
-
-    .details-collapse {
-      display: inline;
-    }
   }
 
   .profile-details-content {
