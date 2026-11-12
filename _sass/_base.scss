@@ -226,13 +226,13 @@ ul.task-list input[type="checkbox"] {
       border: 0;
       border-radius: 0.5rem;
       background: transparent;
-      color: var(--global-text-color-light);
+      color: #126de5;
       font-size: 0.95rem;
       cursor: pointer;
 
       &:hover,
       &:focus-visible {
-        color: var(--global-theme-color);
+        color: #0758c7;
         background: var(--global-code-bg-color);
       }
 
@@ -272,17 +272,36 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.profile-section-title,
+.profile-details summary {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.profile-section-title {
+  margin: 1.25rem 0 0.75rem;
+  font-size: 1.25rem;
+}
+
 .profile-details {
   margin-bottom: 0.75rem;
-  border-bottom: 1px solid var(--global-divider-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.6rem;
+
+  &:hover,
+  &[open] {
+    border-color: var(--global-theme-color);
+  }
 
   summary {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-    padding: 0.75rem 0;
-    font-weight: 600;
+    gap: 0.65rem;
+    padding: 0.8rem 1rem;
+    border-radius: 0.6rem;
+    background: var(--global-code-bg-color);
     list-style: none;
     cursor: pointer;
 
@@ -303,15 +322,47 @@ ul.task-list input[type="checkbox"] {
 
   .details-chevron {
     flex-shrink: 0;
+    width: 1.15rem;
+    height: 1.15rem;
     color: var(--global-theme-color);
   }
 
-  &[open] .details-chevron {
-    transform: rotate(90deg);
+  .details-hint {
+    margin-left: auto;
+    flex-shrink: 0;
+    font-size: 0.75rem;
+    font-weight: 400;
+
+    span {
+      color: var(--global-theme-color);
+    }
+  }
+
+  .details-collapse {
+    display: none;
+  }
+
+  &[open] {
+    summary {
+      border-radius: 0.6rem 0.6rem 0 0;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+
+    .details-chevron {
+      transform: rotate(90deg);
+    }
+
+    .details-expand {
+      display: none;
+    }
+
+    .details-collapse {
+      display: inline;
+    }
   }
 
   .profile-details-content {
-    padding-bottom: 0.75rem;
+    padding: 1rem;
   }
 }
 

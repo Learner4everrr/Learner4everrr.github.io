@@ -11,7 +11,10 @@ profile:
   more_info: >
     <p class="email-contact"><span id="email">zhan8023[at]umn[dot]edu</span>
       <button type="button" class="email-copy" onclick="copyEmail(this)" title="Copy email address" aria-label="Copy email address">
-        <i class="fa-regular fa-copy copy-icon" aria-hidden="true"></i>
+        <svg class="copy-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="8" y="3" width="13" height="16" rx="2.5"></rect>
+          <path d="M4 7v13a2 2 0 0 0 2 2h10"></path>
+        </svg>
         <i class="fa-solid fa-check copied-icon" aria-hidden="true" hidden></i>
       </button>
       <span class="email-copy-status" role="status" aria-live="polite"></span>
@@ -22,15 +25,15 @@ profile:
         button.disabled = true;
         try {
           await navigator.clipboard.writeText('zhan8023@umn.edu');
-          button.querySelector('.copy-icon').hidden = true;
-          button.querySelector('.copied-icon').hidden = false;
+          button.querySelector('.copy-icon').setAttribute('hidden', '');
+          button.querySelector('.copied-icon').removeAttribute('hidden');
           status.textContent = 'Copied!';
         } catch (err) {
           status.textContent = 'Copy failed. Email: zhan8023@umn.edu';
         }
         setTimeout(() => {
-          button.querySelector('.copy-icon').hidden = false;
-          button.querySelector('.copied-icon').hidden = true;
+          button.querySelector('.copy-icon').removeAttribute('hidden');
+          button.querySelector('.copied-icon').setAttribute('hidden', '');
           status.textContent = '';
           button.disabled = false;
         }, 2500);
@@ -52,8 +55,9 @@ Let’s connect and explore how we can collaborate! 😊
 
 <details class="profile-details">
 <summary>
-  <span>Skills</span>
   <svg class="details-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
+  <span>Skills</span>
+  <span class="details-hint" aria-hidden="true"><span class="details-expand">Click to expand</span><span class="details-collapse">Click to collapse</span></span>
 </summary>
 <div class="profile-details-content">
 Programming: <em>Python(Proficient), MATLAB(Proficient), SQL, R, C/C++, Java </em><br> 
@@ -67,8 +71,9 @@ Others: <em>Linux Bash, Shell, Git, GitHub, Slurm, LaTeX, Processing, Jupyter </
 
 <details class="profile-details">
 <summary>
-  <span>Reviewer Service</span>
   <svg class="details-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
+  <span>Reviewer Service</span>
+  <span class="details-hint" aria-hidden="true"><span class="details-expand">Click to expand</span><span class="details-collapse">Click to collapse</span></span>
 </summary>
 <div class="profile-details-content">
 <strong>Journal</strong>: <em>Nature Communications(if=18.1 2026), npj Digital Medicine(if=18.1 2026), JAMIA open, npj Precision Oncology, IEEE Journal of Biomedical and Health Informatics, JMIR Medical Informatics, International Journal of Computers and Applications, Applied Artificial Intelligence, Scientific Report, Discover Computing, Discover Education, PeerJ Computer Science, Digital Health, Journal of King Saud University Computer and Information Sciences, BMC Medical Informatics, BMC Medical Informatics and Decision Making, BMC Medical Education, BMC Medical Research Methodology, BMC Medical Imaging, Communications Medicine, Information Processing and Management, Expert Systems With Applications, International Journal of Data Science and Analytics, Informatics in Medicine Unlocked, Network Modeling Analysis in Health Informatics and Bioinformatics, European Journal of Cancer, Psychology, Health & Medicine, Discover Artificial Intelligence, Discover Informatics, Cluster Computing, Journal of Experimental & Theoretical Artificial Intelligence, BMC Cardiovascular Disorders, International Journal of Machine Learning and Cybernetics, Applied Soft Computing Journal, International Journal of Digital Earth, Journal of Imaging Informatics in Medicine, Knowledge-Based Systems, Intelligence-Based Medicine, Computer Methods and Programs in Biomedicine Update </em> <br> 
