@@ -1,0 +1,6 @@
+{%- assign metrics = site.data.reviewer_journals -%}
+{%- assign rated = metrics.journals | where_exp: 'journal', 'journal.impact_factor != nil' | sort: 'impact_factor' | reverse -%}
+{%- assign unrated = metrics.journals | where_exp: 'journal', 'journal.impact_factor == nil' -%}
+{%- assign journals = rated | concat: unrated -%}
+<small class="text-muted">{{ metrics.year }} Journal Impact Factors (released in {{ metrics.release_year }}).</small><br>
+<strong>Journal</strong>: <em>{% for journal in journals %}{{ journal.name | escape }}{% if journal.impact_factor %} (IF: {{ journal.impact_factor }}){% endif %}{% unless forloop.last %}; {% endunless %}{% endfor %}</em><br>

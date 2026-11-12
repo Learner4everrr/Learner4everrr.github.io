@@ -1,0 +1,175 @@
+# Journal Impact Factors checked on 2026-11-12.
+# Metric year: 2025 (released in 2026). Not CiteScore or five-year JIF.
+# A null value means no verified JIF is displayed, not an impact factor of zero.
+# Sources are retained here for future updates; the include sorts numeric values.
+year: 2025
+release_year: 2026
+checked_on: "2026-11-12"
+journals:
+  - name: "Artificial Intelligence Review"
+    impact_factor: 18.8
+    source: "https://link.springer.com/journal/10462"
+
+  - name: "Nature Communications"
+    impact_factor: 18.1
+    source: "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
+
+  - name: "npj Digital Medicine"
+    impact_factor: 18.0
+    source: "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
+
+  - name: "JAMIA Open"
+    impact_factor: 4.7
+    source: "https://academic.oup.com/jamiaopen/pages/about"
+
+  - name: "npj Precision Oncology"
+    impact_factor: 9.9
+    source: "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
+
+  - name: "IEEE Journal of Biomedical and Health Informatics"
+    impact_factor: 7.7
+    source: "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+
+  - name: "JMIR Medical Informatics"
+    impact_factor: 5.0
+    source: "https://medinform.jmir.org/"
+
+  - name: "International Journal of Computers and Applications"
+    impact_factor: null
+    source: "https://www.tandfonline.com/journals/tjca20/about-this-journal"
+    note: "Publisher lists CiteScore, SNIP and SJR, but no JIF."
+
+  - name: "Applied Artificial Intelligence"
+    impact_factor: 4.0
+    source: "https://www.tandfonline.com/action/journalInformation?journalCode=uaai20"
+
+  - name: "Scientific Reports"
+    impact_factor: 4.9
+    source: "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
+
+  - name: "Discover Computing"
+    impact_factor: 1.9
+    source: "https://link.springer.com/journal/10791"
+
+  - name: "Discover Education"
+    impact_factor: null
+    source: "https://link.springer.com/journal/44217"
+    note: "No JIF listed on publisher journal page."
+
+  - name: "PeerJ Computer Science"
+    impact_factor: 2.9
+    source: "https://d2pdyyx74uypu5.cloudfront.net/docs/peerj-cs-journal-factsheet.pdf"
+
+  - name: "DIGITAL HEALTH"
+    impact_factor: 3.9
+    source: "https://services.sagepub.com/journal/digital-health-2/"
+
+  - name: "Journal of King Saud University Computer and Information Sciences"
+    impact_factor: 6.4
+    source: "https://link.springer.com/journal/44443"
+
+  - name: "BMC Medical Informatics"
+    impact_factor: null
+    source: null
+    note: "Possible abbreviated duplicate of BMC Medical Informatics and Decision Making; retained pending owner confirmation."
+
+  - name: "BMC Medical Informatics and Decision Making"
+    impact_factor: 5.5
+    source: "https://link.springer.com/journal/12911"
+
+  - name: "BMC Medical Education"
+    impact_factor: 4.2
+    source: "https://link.springer.com/journal/12909"
+
+  - name: "BMC Medical Research Methodology"
+    impact_factor: 3.7
+    source: "https://link.springer.com/journal/12874"
+
+  - name: "BMC Medical Imaging"
+    impact_factor: 3.9
+    source: "https://link.springer.com/journal/12880"
+
+  - name: "Communications Medicine"
+    impact_factor: 7.4
+    source: "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
+
+  - name: "Information Processing & Management"
+    impact_factor: 8.1
+    source: "https://www.sciencedirect.com/browse/calls-for-papers?subject=social-sciences-and-humanities"
+
+  - name: "Expert Systems with Applications"
+    impact_factor: 9.4
+    source: "https://shop.elsevier.com/subjects/journals/physical-sciences-and-engineering/computer-science/artificial-intelligence/artificial-intelligence-expert-systems-and-knowledge-based-systems"
+
+  - name: "International Journal of Data Science and Analytics"
+    impact_factor: 2.9
+    source: "https://link.springer.com/journal/41060"
+
+  - name: "Informatics in Medicine Unlocked"
+    impact_factor: null
+    source: "https://www.sciencedirect.com/journal/informatics-in-medicine-unlocked"
+    note: "No official JIF verified. Do not substitute CiteScore or third-party calculated impact metrics."
+
+  - name: "Network Modeling Analysis in Health Informatics and Bioinformatics"
+    impact_factor: 2.4
+    source: "https://link.springer.com/journal/13721"
+
+  - name: "European Journal of Cancer"
+    impact_factor: 7.9
+    source: "https://shop.elsevier.com/journals/subjects/health/medicine/oncology?page=1"
+
+  - name: "Psychology, Health & Medicine"
+    impact_factor: 2.2
+    source: "https://www.tandfonline.com/action/journalInformation?journalCode=cphm20"
+
+  - name: "Discover Artificial Intelligence"
+    impact_factor: null
+    source: "https://link.springer.com/journal/44163"
+    note: "No JIF listed on publisher journal page."
+
+  - name: "Discover Informatics"
+    impact_factor: null
+    source: "https://link.springer.com/journal/44564"
+    note: "New journal; no JIF listed on publisher journal page."
+
+  - name: "Cluster Computing"
+    impact_factor: 5.5
+    source: "https://link.springer.com/journal/10586"
+
+  - name: "Journal of Experimental & Theoretical Artificial Intelligence"
+    impact_factor: 2.1
+    source: "https://www.tandfonline.com/journals/teta20/about-this-journal"
+
+  - name: "BMC Cardiovascular Disorders"
+    impact_factor: 3.1
+    source: "https://link.springer.com/journal/12872"
+
+  - name: "International Journal of Machine Learning and Cybernetics"
+    impact_factor: 2.9
+    source: "https://link.springer.com/journal/13042"
+
+  - name: "Applied Soft Computing"
+    impact_factor: 7.8
+    source: "https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science"
+
+  - name: "International Journal of Digital Earth"
+    impact_factor: 5.4
+    source: "https://www.tandfonline.com/journals/tjde20/about-this-journal"
+
+  - name: "Journal of Imaging Informatics in Medicine"
+    impact_factor: 3.1
+    source: "https://link.springer.com/journal/10278"
+
+  - name: "Knowledge-Based Systems"
+    impact_factor: 8.0
+    source: "https://shop.elsevier.com/subjects/journals/physical-sciences-and-engineering/engineering-and-technology"
+
+  - name: "Intelligence-Based Medicine"
+    impact_factor: null
+    source: "https://www.sciencedirect.com/journal/intelligence-based-medicine"
+    note: "No official JIF verified. Do not substitute CiteScore or third-party calculated impact metrics."
+
+  - name: "Computer Methods and Programs in Biomedicine Update"
+    impact_factor: null
+    source: "https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine-update"
+    note: "No official JIF verified. This is distinct from Computer Methods and Programs in Biomedicine."
