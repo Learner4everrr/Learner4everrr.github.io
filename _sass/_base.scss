@@ -207,6 +207,68 @@ ul.task-list input[type="checkbox"] {
       display: inline-block;
       margin: 0;
     }
+
+    .email-contact {
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .email-copy {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      width: 2rem;
+      height: 2rem;
+      padding: 0;
+      border: 0;
+      border-radius: 0.5rem;
+      background: transparent;
+      color: var(--global-text-color-light);
+      font-size: 0.95rem;
+      cursor: pointer;
+
+      &:hover,
+      &:focus-visible {
+        color: var(--global-theme-color);
+        background: var(--global-code-bg-color);
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--global-theme-color);
+        outline-offset: 2px;
+      }
+
+      [hidden] {
+        display: none;
+      }
+
+      .copied-icon {
+        color: var(--global-theme-color);
+      }
+    }
+
+    .email-copy-status {
+      position: absolute;
+      bottom: calc(100% + 0.25rem);
+      right: 0;
+      z-index: 1;
+      max-width: 100%;
+      padding: 0.3rem 0.55rem;
+      border: 1px solid var(--global-divider-color);
+      border-radius: 0.4rem;
+      background: var(--global-bg-color);
+      color: var(--global-text-color);
+      font-family: inherit;
+      font-size: 0.75rem;
+      line-height: 1.4;
+
+      &:empty {
+        display: none;
+      }
+    }
   }
 }
 

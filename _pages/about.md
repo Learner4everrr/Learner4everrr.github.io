@@ -9,15 +9,31 @@ profile:
   image: ZZF.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><span id="email">zhan8023[at]umn[dot]edu</span>
-      <button onclick="copyEmail()">Copy</button>
+    <p class="email-contact"><span id="email">zhan8023[at]umn[dot]edu</span>
+      <button type="button" class="email-copy" onclick="copyEmail(this)" title="Copy email address" aria-label="Copy email address">
+        <i class="fa-regular fa-copy copy-icon" aria-hidden="true"></i>
+        <i class="fa-solid fa-check copied-icon" aria-hidden="true" hidden></i>
+      </button>
+      <span class="email-copy-status" role="status" aria-live="polite"></span>
     </p>
     <script>
-      function copyEmail() {
-        const emailText = 'zhan8023@umn.edu';
-        navigator.clipboard.writeText(emailText).then(() => {
-        }).catch(err => {
-        });
+      async function copyEmail(button) {
+        const status = button.parentElement.querySelector('.email-copy-status');
+        button.disabled = true;
+        try {
+          await navigator.clipboard.writeText('zhan8023@umn.edu');
+          button.querySelector('.copy-icon').hidden = true;
+          button.querySelector('.copied-icon').hidden = false;
+          status.textContent = 'Copied!';
+        } catch (err) {
+          status.textContent = 'Copy failed. Email: zhan8023@umn.edu';
+        }
+        setTimeout(() => {
+          button.querySelector('.copy-icon').hidden = false;
+          button.querySelector('.copied-icon').hidden = true;
+          status.textContent = '';
+          button.disabled = false;
+        }, 2500);
       }
     </script>
 
