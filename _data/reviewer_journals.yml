@@ -6,6 +6,17 @@ year: 2025
 release_year: 2026
 checked_on: "2026-11-12"
 journals:
+  - name: "Knowledge and Information Systems"
+    impact_factor: 3.6
+    source: "https://link.springer.com/journal/10115"
+    checked_on: "2026-11-17"
+
+  - name: "Artificial Intelligence in Medicine"
+    impact_factor: 7.8
+    source: "https://ooir.org/j.php?issn=0933-3657"
+    checked_on: "2026-11-15"
+    note: "2025 JIF reported by OOIR and corroborated by https://dizin.docent.com.tr/en/dergiler/09333657; secondary sources."
+
   - name: "Artificial Intelligence Review"
     impact_factor: 18.8
     source: "https://link.springer.com/journal/10462"
